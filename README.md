@@ -1,7 +1,3 @@
 # tic-tac-toe
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ghufranfazal/tic-tac-toe)
-
-
-
-[Play](https://ghufran-tictactoe.netlify.app/)
+[PLAY 🎮](https://ghufran-tictactoe.netlify.app/)
